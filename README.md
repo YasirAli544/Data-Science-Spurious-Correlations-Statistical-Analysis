@@ -3,8 +3,8 @@ This repository contains multiple Jupyter notebooks demonstrating exploratory da
 The project includes tasks such as one-sample tests, two-sample comparisons, correlation analysis, ANOVA/Kruskal-Wallis, and bootstrapping.
 
 🛠 Tools & Libraries
-Python
-Jupyter Notebook
-pandas, numpy
-matplotlib
-scipy.stats
+* Python
+* Jupyter Notebook
+* pandas, numpy
+* matplotlib
+* scipy.stats
